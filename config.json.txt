@@ -1,0 +1,5 @@
+﻿{
+	"ip":"X_SIN_AREA.aternos.me",
+	"port": "22862",
+	"name": "HEROBRINE"
+}
